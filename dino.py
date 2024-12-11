@@ -87,8 +87,8 @@ class Dino:
 # Obstacle class
 class Obstacle:
     def __init__(self):
-        self.image = pygame.image.load('tower.png')
-        self.image = pygame.transform.scale(self.image, (50, 125))
+        self.image = pygame.image.load('cactus.png')
+        self.image = pygame.transform.scale(self.image, (50, 100))
         self.rect = self.image.get_rect()
         self.rect.width -= 25
         self.rect.x = SCREEN_WIDTH

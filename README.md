@@ -1,3 +1,3 @@
-## Tower Run
+## Cactus Run
 
-This is the dino game but with towers and planes
+This is a rtx chrome dino game.
